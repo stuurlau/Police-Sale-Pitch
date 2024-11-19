@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Reveal.js Slideshow</title>
+    <link rel="stylesheet" href="reveal.js/dist/reveal.css">
+    <link rel="stylesheet" href="reveal.js/dist/theme/black.css"> <!-- Choose theme -->
+</head>
+<body>
+    <div class="reveal">
+        <div class="slides">
+            <section>
+                <img src="slide1.png" alt="Slide 1">
+            </section>
+            <section>
+                <img src="slide2.png" alt="Slide 2">
+            </section>
+            <section>
+                <img src="slide3.png" alt="Slide 3">
+            </section>
+        </div>
+    </div>
+
+    <script src="reveal.js/dist/reveal.js"></script>
+    <script>
+        Reveal.initialize({
+            controls: true,
+            progress: true,
+            slideNumber: true,
+            history: true,
+            center: true,
+            transition: 'fade' // Options: none/fade/slide/convex/concave/zoom
+        });
+    </script>
+</body>
+</html>

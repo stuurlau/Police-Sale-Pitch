@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<title>Citadel Police Pitch</title>
+
+		<link rel="stylesheet" href="dist/reset.css">
+		<link rel="stylesheet" href="dist/reveal.css">
+		<link rel="stylesheet" href="dist/theme/black.css">
+
+		<!-- Theme used for syntax highlighted code -->
+		<link rel="stylesheet" href="plugin/highlight/monokai.css">
+	</head>
+	<body>
+		<div class="reveal">
+			<div class="slides">
+				<section class="slide">
+					<img src="slides/Prototype.svg" alt="Slide 1">
+					<video id="results-vid" src="animations/Results-prototype (1).mp4" controls></video>
+					<video id="details-vid" src="animations/citadel_presentation_rec10-2024-09-19_12.46.52.mkv" controls></video>
+				</section>
+				<section>
+					<img src="slides/Incubator.svg" alt="Slide 2">
+				</section>
+				<section>
+					<img src="slides/Accelarator.svg" alt="Slide 3">
+					<video id="intervention-vid" src="animations/Interventie_animatie.mp4" autoplay="autoplay"></video>
+				</section>
+				<section>
+					<img src="slides/Accelarator2.svg" alt="Slide 3">
+				</section>
+
+			</div>
+		</div>
+
+		<script src="dist/reveal.js"></script>
+		<script src="plugin/notes/notes.js"></script>
+		<script src="plugin/markdown/markdown.js"></script>
+		<script src="plugin/highlight/highlight.js"></script>
+		<script>
+			// More info about initialization & config:
+			// - https://revealjs.com/initialization/
+			// - https://revealjs.com/config/
+			Reveal.initialize({
+				hash: true,
+				controls: true,
+				progress: true,
+				slideNumber: true,
+				history: true,
+				center: true,
+				transition: 'fade', // Options: none/fade/slide/convex/concave/zoom
+				// Learn about plugins: https://revealjs.com/plugins/
+				plugins: [ RevealMarkdown, RevealHighlight, RevealNotes ]
+			});
+		</script>
+		<style>
+
+			.reveal .slides {
+				height: 100% !important;
+				width:100% !important;
+				top: 0 !important;
+				margin-top: 0 !important;
+				scale:none !important;
+				inset:0 !important;
+				transform: none !important;
+			}
+
+			.reveal .slides>section {
+			min-height: 90%;
+			}
+
+			.reveal .slides>section>section {
+			min-height: 100%;
+			}
+
+			#results-vid {
+				position: absolute !important;
+				top: 15.5% !important;
+				left: 48% !important;
+				height: 35% !important;
+			}
+
+			#details-vid {
+				position: absolute !important;
+				top: 62% !important;
+				left: 48% !important;
+				height: 33% !important;
+			}
+			
+			#intervention-vid {
+				position: absolute !important;
+				top: 22% !important;
+				left: 29% !important;
+				height: 68% !important;
+			}
+			#intervention-vid video::-webkit-media-controls-start-playback-button {
+				display: none;
+			}
+
+		</style>
+		
+	</body>
+</html>
