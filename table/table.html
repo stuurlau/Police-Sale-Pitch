@@ -1,0 +1,125 @@
+
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Excel Sheet with Comments</title>
+        <style>
+            table { border-collapse: collapse; }
+            th, td { border: 1px solid black; padding: 8px; position: relative; }
+            .comment { display: none; position: absolute; background: #ffffe0; border: 1px solid #000; padding: 5px; z-index: 100; }
+            td:hover .comment { display: block; }
+        </style>
+    </head>
+    <body>
+        <table>
+    <tr><td>HYPERION EXTENSION: FEATURE COMPARISON</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>FEATURES</td><td>NOW</td><td>INCUBATOR</td><td>ACCELERATOR</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>FRONT-END</td><td></td><td>1 MEur</td><td>2 MEur</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Visualisatie in 2D en 3D</td><td>✔</td><td>✔</td><td>✔</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Inspectie persoonsgegevens </td><td>✔</td><td>✔</td><td>✔</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>   Basis simulatie functionaliteit</td><td>✔</td><td>✔</td><td>✔</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Multiverse simulatie functionaliteit<div class="comment">[Threaded comment]
+
+Your version of Excel allows you to read this threaded comment; however, any edits to it will get removed if the file is opened in a newer version of Excel. Learn more: https://go.microsoft.com/fwlink/?linkid=870924
+
+Comment:
+    Meerdere scenario’s tegelijk simuleren, met meerdere simulaties per scenario (‘Monte Carlo’) om zo scenario’s te kunnen vergelijken met inbegrip van waarschijnlijkheden. Vereiste: een machine met veel rekenkracht.</div></td><td></td><td>✔</td><td>✔</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>  - Visualiseren multiverse netwerken<div class="comment">[Threaded comment]
+
+Your version of Excel allows you to read this threaded comment; however, any edits to it will get removed if the file is opened in a newer version of Excel. Learn more: https://go.microsoft.com/fwlink/?linkid=870924
+
+Comment:
+    Een manier vinden om de bovenstaande ‘multiverse’ berekeningen inzichtelijk te maken, liefst ‘live’, zonder te verdrinken in details. We kunnen denken aan ‘stacked layers’ van netwerken; een ruimtelijke ‘multiverse’, of eenvoudiger: een serie van grote pictogrammen waarop geklikt kan worden waarna de enkele simulatie wordt getoond.</div></td><td></td><td></td><td>✔</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Optimalisate grote netwerken<div class="comment">[Threaded comment]
+
+Your version of Excel allows you to read this threaded comment; however, any edits to it will get removed if the file is opened in a newer version of Excel. Learn more: https://go.microsoft.com/fwlink/?linkid=870924
+
+Comment:
+    Een simulatie van 100 actoren gedurende 1 simulatie-jaar duurt nu ongeveer een halve minuut op een standaard laptop. Om duizenden actoren tegelijk, en meerdere scenario’s tegelijk, te kunnen simuleren is een efficiëntieslag gewenst.
+
+Laaghangend fruit is hierbij parallellisatie en versnellen van een tiental bottleneck-functies. Maar we kunnen ook denken aan: verhogen van tijdstapgrootte; overstappen op discrete-time, discrete event simulatie; overstappen op ander framework dan MESA; of misschien zelfs overstappen op Cython.</div></td><td></td><td>✔</td><td>✔</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Uploaden van netwerken<div class="comment">[Threaded comment]
+
+Your version of Excel allows you to read this threaded comment; however, any edits to it will get removed if the file is opened in a newer version of Excel. Learn more: https://go.microsoft.com/fwlink/?linkid=870924
+
+Comment:
+    Als men zelf een bestand heeft met een netwerkstructuur, dan kan dat nu al worden geüpload, maar dan moet de gebruiker zelf zorgdragen dat het bestand in precies de juiste format is die wordt verwacht (en die is heel uitgebreid). Dat vergt programmeerkennis. We kunnen ook verschillende functionaliteiten implementeren waarbij de gebruiker kan worden gevraagd op welke manier het bestand moet worden gelezen, en wat er moet worden toegevoegd om tot een simulatie te komen (bijv., in het geval dat er bepaalde informatie mist in het bestand, zoals rolaanduiding, demografische informatie, etc.).</div></td><td>✔</td><td>✔</td><td>✔</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Integratie met andere intelligence-databases<div class="comment">[Threaded comment]
+
+Your version of Excel allows you to read this threaded comment; however, any edits to it will get removed if the file is opened in a newer version of Excel. Learn more: https://go.microsoft.com/fwlink/?linkid=870924
+
+Comment:
+    Uiteraard binnen het kader van de wet kunnen we verschillende datasets met elkaar koppelen. Waar we nu al een begin mee hebben gemaakt is detentiegegevens: welke personen zitten/zaten wanneer in welke PI. Maar we kunnen ook denken aan data uit andere bronnen die lacunes in de huidige data kunnen verhelpen (bijv., rollen zijn nu in de meeste gevallen onbekend, maar kan worden verrijkt met andere modaliteiten), en aan data die additionele dynamieken kunnen brengen (bijv. financiële criminaliteit; eigendommen).
+
+Wat hierin niet in is meegenomen, maar dat wel nodig zou kunnen zijn afhankelijk van welke databronnen we willen koppelen, is het installeren van een Data Clean Room.</div></td><td></td><td>✔</td><td>✔</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>  - Installeren van een Data Clean Room<div class="comment">[Threaded comment]
+
+Your version of Excel allows you to read this threaded comment; however, any edits to it will get removed if the file is opened in a newer version of Excel. Learn more: https://go.microsoft.com/fwlink/?linkid=870924
+
+Comment:
+    Afhankelijk van welke databronnen we willen koppelen, zou het nodig kunnen zijn om een “Data Clean Room” te installeren. In de academische wereld heet dit een “Trusted Research Environment (TRE)”, en dat bedoelen we ook eigenlijk hier. In feite is het een beveiligde digitale omgeving waarin gevoelige data veilig kan worden opgeslagen, gecombineerd en geanalyseerd zonder dat de data ooit de omgeving verlaat. Alleen geaggregeerde resultaten en samenvattingen mogen de TRE verlaten na een strenge controle (“Five Safes” raamwerk). Dit is uiteraard een serieuze inspanning die we zorgvuldig moeten afwegen.</div></td><td></td><td></td><td>✔</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Verkenning linken met nieuwe datasets<div class="comment">[Threaded comment]
+
+Your version of Excel allows you to read this threaded comment; however, any edits to it will get removed if the file is opened in a newer version of Excel. Learn more: https://go.microsoft.com/fwlink/?linkid=870924
+
+Comment:
+    Te denken valt aan niet-intelligence data zoals: cryptophone; KvK; CBS; gemeentelijke data; financiële datastromen; etc.</div></td><td></td><td></td><td>✔</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Augmented Reality<div class="comment">[Threaded comment]
+
+Your version of Excel allows you to read this threaded comment; however, any edits to it will get removed if the file is opened in a newer version of Excel. Learn more: https://go.microsoft.com/fwlink/?linkid=870924
+
+Comment:
+    Zoals al eerder getoond in een video van onze vorige programmeur, het is zeker mogelijk om interactie met onze software uit te breiden met Augmented Reality. Hierbij kan een gebruiker meer informatie zien (3D) en meer knoppen en functionaliteiten hebben (in de ruimte), maar nog belangrijker: verschillende gebruikers kunnen verschillende dingen te zien krijgen – dan wel vanwege toegangsbeperkingen, dan wel om effectief samen te kunnen werken om nieuwe strategieën te ontwikkelen met verschillende experts.</div></td><td></td><td></td><td>✔</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>ANALYSE</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Overzicht simulatie resultaten<div class="comment">[Threaded comment]
+
+Your version of Excel allows you to read this threaded comment; however, any edits to it will get removed if the file is opened in a newer version of Excel. Learn more: https://go.microsoft.com/fwlink/?linkid=870924
+
+Comment:
+    Wat nu geïmplementeerd is, is een aantal metrieken over tijd van één enkele simulatie. Resultaten kunnen ook worden gekoppeld aan de netwerkvisualisatie. Ook kan er waarschijnlijkheidsberekening worden toegevoegd (dus een onzekerheidsgebied rondom curves). Ook kunnen er aggregate en geavanceerdere resultaten worden getoond, zoals een aggregatie op rolniveau (is er een tekort aan bepaalde rollen?). Ook kunnen we denken aan het visualiseren van verschillen, bijv. van de beginsituatie t.o.v. de eindsituatie in termen van roldistributie, netwerkstructuur, etc.</div></td><td>✔</td><td>✔</td><td>✔</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Onzekerheids bepaling dmv batch simulaties<div class="comment">[Threaded comment]
+
+Your version of Excel allows you to read this threaded comment; however, any edits to it will get removed if the file is opened in a newer version of Excel. Learn more: https://go.microsoft.com/fwlink/?linkid=870924
+
+Comment:
+    Eén scenario kan meerdere keren gesimuleerd worden, om zo waarschijnlijkheden van uitkomsten te kunnen schatten. Bijv. de kans op een succesvolle vervanging na liquidatie, of de kans op fragmentatie van een netwerk.</div></td><td></td><td>✔</td><td>✔</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Integratie van &#x27;tie strength&#x27; analyse<div class="comment">[Threaded comment]
+
+Your version of Excel allows you to read this threaded comment; however, any edits to it will get removed if the file is opened in a newer version of Excel. Learn more: https://go.microsoft.com/fwlink/?linkid=870924
+
+Comment:
+    We hebben reeds onderzoek gedaan en een statistische regressiemodel gemaakt van ‘tie strength’, zoals bedoeld door Granovetter (‘strong and weak ties’). We denken dat dit belangrijk is voor dynamieken zoals vervanging zoeken voor cruciale rollen, maar ook de kans dat een contact verwaterd wanneer iemand in hechtenis is gezet. Dit regressiemodel kan worden geïntegreerd in de simulaties; op dit moment zijn alle connecties tussen actoren gelijk op dit vlak.</div></td><td></td><td>✔</td><td>✔</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Belangrijkste schakel analyse (driver-node)<div class="comment">[Threaded comment]
+
+Your version of Excel allows you to read this threaded comment; however, any edits to it will get removed if the file is opened in a newer version of Excel. Learn more: https://go.microsoft.com/fwlink/?linkid=870924
+
+Comment:
+    Het vergt vele simulaties, ieder met verschillende hypothetische interventies uitgevoerd, om ‘driver nodes’ te voorspellen: actoren die veel invloed hebben op de dynamiek van het netwerk, waar een interventie (naar keuze) veel impact zou hebben. Dit kan ook worden gebruikt om potentiële kandidaat-informanten aan te wijzen die veel informatie kunnen verschaffen. Een geavanceerde optie kan ook strategische multi-interventies analyseren: niet één maar meerdere interventies tegelijkertijd simuleren, met als doel het bereiken van ‘meer dan de som der delen’ impact (verstoring).</div></td><td></td><td>✔</td><td>✔</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Versterking met AI<div class="comment">[Threaded comment]
+
+Your version of Excel allows you to read this threaded comment; however, any edits to it will get removed if the file is opened in a newer version of Excel. Learn more: https://go.microsoft.com/fwlink/?linkid=870924
+
+Comment:
+    Te denken valt aan een AI chatbot, waarmee analyses en simulaties gestart kunnen worden zonder precies te weten met welke knoppen dat eigenlijk zou moeten. Ook valt te denken aan ‘genAI’ tools zoals het genereren van een crime script op basis van wetenschappelijke literatuur, of het gemakkelijk genereren van een representatief maar hypothetisch netwerk van actoren om tests mee te doen.</div></td><td></td><td></td><td>✔</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>TECHNISCH</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Handmatig aanpassen van visualisatie<div class="comment">[Threaded comment]
+
+Your version of Excel allows you to read this threaded comment; however, any edits to it will get removed if the file is opened in a newer version of Excel. Learn more: https://go.microsoft.com/fwlink/?linkid=870924
+
+Comment:
+    Kleuren van connecties, actoren; groottes; vormen. Kleuren en/of groottes laten schalen naar een attribuut van de actor of connectie (bijv. capital, vertrouwen).</div></td><td>✔</td><td>✔</td><td>✔</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>   Zoekfunctie op basis van persoon ID</td><td>✔</td><td>✔</td><td>✔</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Overzicht (basis-) statistieken netwerk</td><td></td><td>✔</td><td>✔</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Geavanceerde zoek en filter functionaliteit<div class="comment">[Threaded comment]
+
+Your version of Excel allows you to read this threaded comment; however, any edits to it will get removed if the file is opened in a newer version of Excel. Learn more: https://go.microsoft.com/fwlink/?linkid=870924
+
+Comment:
+    Denk aan SQL-achtige queries, zoals alle actoren die minstens 2 verbindingen hebben en tegelijkertijd lage fitness hebben. Hierbovenop kan een vriendelijke grafische interface met knoppen worden gemaakt om niet SQL te hoeven kunnen schrijven.</div></td><td></td><td>✔</td><td>✔</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>   Multi-user simulatie sessie<div class="comment">[Threaded comment]
+
+Your version of Excel allows you to read this threaded comment; however, any edits to it will get removed if the file is opened in a newer version of Excel. Learn more: https://go.microsoft.com/fwlink/?linkid=870924
+
+Comment:
+    Twee of meer computers kunnen nu met dezelfde sessie verbinden, maar zien dan exact hetzelfde. Hier is de vraag: kunnen meerdere gebruikers inloggen en met hetzelfde model experimenteren, maar hun eigen view hebben en zelf simulaties starten, die niet in de weg zit van de simulaties van de anderen?</div></td><td></td><td>✔</td><td>✔</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Geavanceerde window management<div class="comment">[Threaded comment]
+
+Your version of Excel allows you to read this threaded comment; however, any edits to it will get removed if the file is opened in a newer version of Excel. Learn more: https://go.microsoft.com/fwlink/?linkid=870924
+
+Comment:
+    Denk aan Word of PowerPoint, waar je taakbalken kunt verschuiven, en dialoogvensters kunt uitlichten (‘floating’) of juist weer integreren in de view. Zo kan een gebruiker de view creëren die het prettigst werkt voor die gebruiker, op dat moment. Dit kan handig zijn wanneer meerdere scenario’s en meerdere simulaties (‘multiverse’) worden uitgevoerd.</div></td><td></td><td></td><td>✔</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Extra beveiliging (user management)<div class="comment">[Threaded comment]
+
+Your version of Excel allows you to read this threaded comment; however, any edits to it will get removed if the file is opened in a newer version of Excel. Learn more: https://go.microsoft.com/fwlink/?linkid=870924
+
+Comment:
+    Om met de tool te werken moet er worden ingelogd op een account. Die account heeft dan vooraf bepaalde rechten. Dit is vooral noodzakelijk in geval van samenwerking (‘multi-user’ en ‘data clean room’). Ook moet communicatie met de server(s) worden versleuteld. </div></td><td></td><td></td><td>✔</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>DYNAMIEK</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Individuele arrestatie van personen<div class="comment">[Threaded comment]
+
+Your version of Excel allows you to read this threaded comment; however, any edits to it will get removed if the file is opened in a newer version of Excel. Learn more: https://go.microsoft.com/fwlink/?linkid=870924
+
+Comment:
+    Een actor kan worden gearresteerd. Hij/zij wordt dan aan een PI toegekend en de duur van voorarrest en vonnis worden gegenereerd obv generieke statistieken. De dynamiek binnen een PI, of tussen iemand binnen en buiten de PI, is nu op een eenvoudige manier nagebootst (verminderde activiteit/waarde per connectie). Deze dynamieken rondom arrestatie, maar ook de kans van arrestatie zelf, kunnen verder worden uitgediept en realistischer gemaakt.</div></td><td>✔</td><td>✔</td><td>✔</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Liquidaties, geweldpleging</td><td></td><td>✔</td><td>✔</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Levensloop, nieuwe aanwas</td><td></td><td>✔</td><td>✔</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Verschillende strategieën arrestatiebeleid en PI-plaatsing</td><td></td><td>✔</td><td>✔</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Rolverandering; meerdere rollen tegelijk</td><td></td><td></td><td>✔</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>   Overige strategieen, informanten werven ea.</td><td></td><td></td><td>✔</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Toevoeging dynamiek van financiele processen</td><td></td><td></td><td>✔</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Toepassingen op andere netwerken (Financial Crime, etc)</td><td></td><td></td><td>✔</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Day-to-day business integratie <div class="comment">[Threaded comment]
+
+Your version of Excel allows you to read this threaded comment; however, any edits to it will get removed if the file is opened in a newer version of Excel. Learn more: https://go.microsoft.com/fwlink/?linkid=870924
+
+Comment:
+    wie heeft cocaine, geld, burenruzie etc. </div></td><td></td><td></td><td>✔</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+        </table>
+    </body>
+    </html>
+    
