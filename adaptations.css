@@ -5,12 +5,15 @@
     justify-content: center !important; 
     align-items: center !important; 
     */
+/* .reveal{
+    overflow: auto !important;
+} */
 
 .reveal .slides {
-    height: 90vh !important;
+    height: 95vh !important;
     width: 90vw !important;
-    top: 0 !important;
-    margin-top: 0 !important;
+    /* top: 0 !important; */
+    /* margin-top: 0 !important; */
     scale: none !important;
     inset: 0 !important;
     transform: none !important;
