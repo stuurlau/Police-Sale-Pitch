@@ -6,47 +6,54 @@
     align-items: center !important; 
     */
 
-    .reveal .slides {
-        height: 90vh !important;
-        width: 90vw !important;
-        top: 0 !important;
-        margin-top: 0 !important;
-        scale: none !important;
-        inset: 0 !important;
-        transform: none !important;
-        max-height: 95% !important;
-        max-width: 95% !important;
-    }
-    
-    .reveal .slides>section {
-        min-height: 90% !important;
-    }
-    
-    .reveal .slides>section>section {
-        min-height: 100% !important;
-    }
-    
-    #results-vid {
-        position: absolute !important;
-        left: 48% !important;
-        top: 15.5% !important;
-        height: 35% !important;
-    }
-    
-    #details-vid {
-        position: absolute !important;
-        top: 62% !important;
-        left: 48% !important;
-        height: 33% !important;
-    }
-    
-    #intervention-vid {
-        position: absolute !important;
-        top: 22% !important;
-        left: 29% !important;
-        height: 68% !important;
-    }
-    
-    #intervention-vid video::-webkit-media-controls-start-playback-button {
-        display: none !important;
-    }
+.reveal .slides {
+    height: 90vh !important;
+    width: 90vw !important;
+    top: 0 !important;
+    margin-top: 0 !important;
+    scale: none !important;
+    inset: 0 !important;
+    transform: none !important;
+    max-height: 100% !important;
+    max-width: 95% !important;
+}
+
+.reveal .slides>section {
+    min-height: 90% !important;
+}
+
+.reveal .slides>section>section {
+    min-height: 100% !important;
+}
+
+#results-vid {
+    position: absolute !important;
+    left: 34% !important;
+    top: 26.5% !important;
+    height: 64% !important;
+}
+
+#details-vid {
+    position: absolute !important;
+    top: 25% !important;
+    left: 32% !important;
+    height: 59% !important;
+}
+
+#intervention-vid {
+    position: absolute !important;
+    top: 3% !important;
+    left: 3% !important;
+    height: 100% !important;
+}
+
+#violence-header{
+    position: absolute !important;
+    top: 49% !important;
+    left: 79% !important;
+    height: 4% !important;
+}
+
+#intervention-vid video::-webkit-media-controls-start-playback-button {
+    display: none !important;
+}

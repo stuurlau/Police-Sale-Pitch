@@ -1,0 +1,28 @@
+﻿table#ExcelTable
+ {mso-displayed-decimal-separator:"\.";
+ mso-displayed-thousand-separator:"\,";}
+@page
+ {
+ mso-header-data:"";
+ mso-footer-data:"";
+ margin:1in 0.75in 1in 0.75in;
+ mso-header-margin:0.5in;
+ mso-footer-margin:0.5in;
+ mso-page-orientation:Portrait;
+ }
+#ExcelTable td
+ {mso-style-parent:style0;
+ mso-number-format:General;
+ text-align:general;
+ vertical-align:bottom;
+ white-space:nowrap;
+ background:auto;
+ mso-pattern:auto;
+ color:#000000;
+ font-size:11pt;
+ font-weight:400;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ border:solid #b6b6b6 1px;
+ mso-protection:locked visible;
+ mso-ignore:padding;}

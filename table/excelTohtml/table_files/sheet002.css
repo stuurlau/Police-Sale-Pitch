@@ -1,0 +1,12 @@
+﻿table#ExcelTable
+ {mso-displayed-decimal-separator:"\.";
+ mso-displayed-thousand-separator:"\,";}
+@page
+ {
+ mso-header-data:"";
+ mso-footer-data:"&L&\0022Arial,Regular\0022&9&K01+044https://www.vertex42.com/ExcelTemplates/feature-comparison.html&R&\0022Arial,Regular\0022&9&K01+044© 2017 by Vertex42.com";
+ margin:0.5in 0.5in 0.5in 0.5in;
+ mso-header-margin:0.3in;
+ mso-footer-margin:0.3in;
+ mso-page-orientation:Landscape;
+ }

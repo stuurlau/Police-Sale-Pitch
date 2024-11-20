@@ -1,0 +1,1700 @@
+﻿#ExcelTable tr
+ {mso-height-source:auto;
+ mso-ruby-visibility:none;}
+#ExcelTable col
+ {mso-width-source:auto;
+ mso-ruby-visibility:none;}
+#ExcelTable br
+ {mso-data-placement:same-cell;}
+ruby
+ {ruby-align:left;}
+.style0
+ {
+ mso-number-format:General;
+ text-align:general;
+ vertical-align:bottom;
+ white-space:nowrap;
+ background:auto;
+ mso-pattern:auto;
+ color:#000000;
+ font-size:11pt;
+ font-weight:400;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ mso-protection:locked visible;
+ mso-style-name:Normal;
+ mso-style-id:0;}
+.font20
+ {
+ color:#000000;
+ font-size:11pt;
+ font-weight:700;
+ font-style:normal;
+ font-family:Arial,sans-serif; }
+.font21
+ {
+ color:#000000;
+ font-size:11pt;
+ font-weight:400;
+ font-style:normal;
+ font-family:Arial,sans-serif; }
+#ExcelTable td
+ {mso-style-parent:style0;
+ mso-number-format:General;
+ text-align:general;
+ vertical-align:bottom;
+ white-space:nowrap;
+ background:auto;
+ mso-pattern:auto;
+ color:#000000;
+ font-size:11pt;
+ font-weight:400;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ mso-protection:locked visible;
+ mso-ignore:padding;}
+#ExcelTable .x15
+ {
+ mso-number-format:General;
+ text-align:general;
+ vertical-align:bottom;
+ white-space:nowrap;
+ background:auto;
+ mso-pattern:auto;
+ color:#000000;
+ font-size:11pt;
+ font-weight:400;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x23
+ {
+ mso-number-format:General;
+ text-align:general;
+ vertical-align:bottom;
+ white-space:nowrap;
+ background:auto;
+ mso-pattern:auto;
+ font-size:10pt;
+ font-weight:400;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x24
+ {
+ mso-number-format:General;
+ text-align:general;
+ vertical-align:middle;
+ white-space:nowrap;
+ background:#F2F2F2;
+ mso-pattern:auto none;
+ font-size:18pt;
+ font-weight:400;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x25
+ {
+ mso-number-format:General;
+ text-align:right;
+ vertical-align:middle;
+ white-space:nowrap;
+ background:#F2F2F2;
+ mso-pattern:auto none;
+ font-size:10pt;
+ font-weight:400;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x26
+ {
+ mso-number-format:General;
+ text-align:right;
+ vertical-align:top;
+ white-space:nowrap;
+ background:auto;
+ mso-pattern:auto;
+ color:#0000FF;
+ font-size:11pt;
+ font-weight:400;
+ font-style:normal;
+ text-decoration:underline;
+ font-family:Arial,sans-serif;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x27
+ {
+ mso-number-format:General;
+ text-align:general;
+ vertical-align:top;
+ white-space:nowrap;
+ background:auto;
+ mso-pattern:auto;
+ color:#000000;
+ font-size:11pt;
+ font-weight:400;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x28
+ {
+ mso-number-format:General;
+ text-align:general;
+ vertical-align:bottom;
+ white-space:nowrap;
+ background:auto;
+ mso-pattern:auto;
+ font-size:11pt;
+ font-weight:700;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x29
+ {
+ mso-number-format:General;
+ text-align:general;
+ vertical-align:top;
+ white-space:normal;word-wrap:break-word;
+ background:auto;
+ mso-pattern:auto;
+ color:#000000;
+ font-size:11pt;
+ font-weight:400;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x30
+ {
+ mso-number-format:General;
+ text-align:general;
+ vertical-align:top;
+ white-space:normal;word-wrap:break-word;
+ background:auto;
+ mso-pattern:auto;
+ font-size:11pt;
+ font-weight:400;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x31
+ {
+ mso-number-format:General;
+ text-align:general;
+ vertical-align:top;
+ white-space:nowrap;
+ background:auto;
+ mso-pattern:auto;
+ color:#0000FF;
+ font-size:11pt;
+ font-weight:400;
+ font-style:normal;
+ text-decoration:underline;
+ font-family:Arial,sans-serif;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x32
+ {
+ mso-number-format:General;
+ text-align:left;
+ vertical-align:middle;
+ white-space:normal;word-wrap:break-word;
+ mso-char-indent-count:1;
+ padding-left:13px;
+ background:auto;
+ mso-pattern:auto;
+ color:#000000;
+ font-size:11pt;
+ font-weight:400;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x33
+ {
+ mso-number-format:General;
+ text-align:general;
+ vertical-align:middle;
+ white-space:nowrap;
+ background:auto;
+ mso-pattern:auto;
+ color:#000000;
+ font-size:11pt;
+ font-weight:400;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x34
+ {
+ mso-number-format:General;
+ text-align:general;
+ vertical-align:middle;
+ white-space:nowrap;
+ background:auto;
+ mso-pattern:auto;
+ color:#0000FF;
+ font-size:11pt;
+ font-weight:400;
+ font-style:normal;
+ text-decoration:underline;
+ font-family:Arial,sans-serif;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x35
+ {
+ mso-number-format:General;
+ text-align:left;
+ vertical-align:middle;
+ white-space:normal;word-wrap:break-word;
+ mso-char-indent-count:2;
+ padding-left:26px;
+ background:auto;
+ mso-pattern:auto;
+ color:#000000;
+ font-size:11pt;
+ font-weight:400;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x36
+ {
+ mso-number-format:General;
+ text-align:left;
+ vertical-align:middle;
+ white-space:nowrap;
+ mso-char-indent-count:1;
+ padding-left:13px;
+ background:#808080;
+ mso-pattern:auto none;
+ color:#000000;
+ font-size:11pt;
+ font-weight:700;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x37
+ {
+ mso-number-format:General;
+ text-align:center;
+ vertical-align:middle;
+ white-space:nowrap;
+ background:auto;
+ mso-pattern:auto;
+ font-size:12pt;
+ font-weight:400;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x38
+ {
+ mso-number-format:General;
+ text-align:center;
+ vertical-align:middle;
+ white-space:nowrap;
+ background:auto;
+ mso-pattern:auto;
+ font-size:12pt;
+ font-weight:400;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x39
+ {
+ mso-number-format:General;
+ text-align:center;
+ vertical-align:middle;
+ white-space:nowrap;
+ background:auto;
+ mso-pattern:auto;
+ color:#000000;
+ font-size:12pt;
+ font-weight:400;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x40
+ {
+ mso-number-format:General;
+ text-align:center;
+ vertical-align:middle;
+ white-space:nowrap;
+ background:#7E9BCF;
+ mso-pattern:auto none;
+ font-size:12pt;
+ font-weight:400;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x41
+ {
+ mso-number-format:General;
+ text-align:left;
+ vertical-align:middle;
+ white-space:normal;word-wrap:break-word;
+ mso-char-indent-count:1;
+ padding-left:13px;
+ background:#A6A6A6;
+ mso-pattern:auto none;
+ color:#000000;
+ font-size:11pt;
+ font-weight:400;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x42
+ {
+ mso-number-format:General;
+ text-align:general;
+ vertical-align:middle;
+ white-space:nowrap;
+ background:auto;
+ mso-pattern:auto;
+ color:#3B4E87;
+ font-size:11pt;
+ font-weight:400;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x43
+ {
+ mso-number-format:General;
+ text-align:center;
+ vertical-align:middle;
+ white-space:nowrap;
+ background:#CAECCC;
+ mso-pattern:auto none;
+ font-size:12pt;
+ font-weight:400;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x44
+ {
+ mso-number-format:General;
+ text-align:center;
+ vertical-align:middle;
+ white-space:nowrap;
+ background:#CAECCC;
+ mso-pattern:auto none;
+ font-size:12pt;
+ font-weight:400;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x45
+ {
+ mso-number-format:'0\\ \0022GB\0022';
+ text-align:center;
+ vertical-align:middle;
+ white-space:nowrap;
+ background:#CAECCC;
+ mso-pattern:auto none;
+ font-size:11pt;
+ font-weight:400;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x46
+ {
+ mso-number-format:General;
+ text-align:center;
+ vertical-align:middle;
+ white-space:nowrap;
+ background:#CAECCC;
+ mso-pattern:auto none;
+ font-size:11pt;
+ font-weight:400;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x47
+ {
+ mso-number-format:General;
+ text-align:center;
+ vertical-align:middle;
+ white-space:normal;word-wrap:break-word;
+ background:#3A5D9C;
+ mso-pattern:auto none;
+ color:#000000;
+ font-size:10pt;
+ font-weight:700;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x48
+ {
+ mso-number-format:General;
+ text-align:center;
+ vertical-align:middle;
+ white-space:normal;word-wrap:break-word;
+ background:#C04E4E;
+ mso-pattern:auto none;
+ color:#000000;
+ font-size:10pt;
+ font-weight:700;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x49
+ {
+ mso-number-format:General;
+ text-align:center;
+ vertical-align:middle;
+ white-space:nowrap;
+ background:#D99595;
+ mso-pattern:auto none;
+ font-size:12pt;
+ font-weight:400;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x50
+ {
+ mso-number-format:General;
+ text-align:center;
+ vertical-align:middle;
+ white-space:nowrap;
+ background:#F2DCDC;
+ mso-pattern:auto none;
+ font-size:12pt;
+ font-weight:400;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x51
+ {
+ mso-number-format:General;
+ text-align:center;
+ vertical-align:middle;
+ white-space:nowrap;
+ background:#F2DCDC;
+ mso-pattern:auto none;
+ font-size:12pt;
+ font-weight:400;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x52
+ {
+ mso-number-format:'0\\ \0022GB\0022';
+ text-align:center;
+ vertical-align:middle;
+ white-space:nowrap;
+ background:#F2DCDC;
+ mso-pattern:auto none;
+ font-size:11pt;
+ font-weight:400;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x53
+ {
+ mso-number-format:General;
+ text-align:center;
+ vertical-align:middle;
+ white-space:nowrap;
+ background:#F2DCDC;
+ mso-pattern:auto none;
+ font-size:11pt;
+ font-weight:400;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x54
+ {
+ mso-number-format:General;
+ text-align:center;
+ vertical-align:middle;
+ white-space:normal;word-wrap:break-word;
+ background:#276F2C;
+ mso-pattern:auto none;
+ color:#000000;
+ font-size:10pt;
+ font-weight:700;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x55
+ {
+ mso-number-format:General;
+ text-align:center;
+ vertical-align:middle;
+ white-space:normal;word-wrap:break-word;
+ background:#7860B4;
+ mso-pattern:auto none;
+ color:#000000;
+ font-size:10pt;
+ font-weight:700;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x56
+ {
+ mso-number-format:General;
+ text-align:center;
+ vertical-align:middle;
+ white-space:normal;word-wrap:break-word;
+ background:#E68422;
+ mso-pattern:auto none;
+ color:#000000;
+ font-size:10pt;
+ font-weight:700;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x57
+ {
+ mso-number-format:'\0022$\0022\#\,\#\#0_\)\;\[Red\]\\\(\0022$\0022\#\,\#\#0\\\)';
+ text-align:center;
+ vertical-align:middle;
+ white-space:nowrap;
+ background:#AEA0D2;
+ mso-pattern:auto none;
+ color:#000000;
+ font-size:12pt;
+ font-weight:400;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x58
+ {
+ mso-number-format:General;
+ text-align:center;
+ vertical-align:middle;
+ white-space:nowrap;
+ background:#E4DFF0;
+ mso-pattern:auto none;
+ color:#000000;
+ font-size:12pt;
+ font-weight:400;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x59
+ {
+ mso-number-format:'0\\ \0022GB\0022';
+ text-align:center;
+ vertical-align:middle;
+ white-space:nowrap;
+ background:#E4DFF0;
+ mso-pattern:auto none;
+ color:#000000;
+ font-size:11pt;
+ font-weight:400;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x60
+ {
+ mso-number-format:General;
+ text-align:center;
+ vertical-align:middle;
+ white-space:nowrap;
+ background:#E4DFF0;
+ mso-pattern:auto none;
+ color:#000000;
+ font-size:11pt;
+ font-weight:400;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x61
+ {
+ mso-number-format:General;
+ text-align:center;
+ vertical-align:middle;
+ white-space:nowrap;
+ background:#F0B57A;
+ mso-pattern:auto none;
+ color:#000000;
+ font-size:12pt;
+ font-weight:400;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x62
+ {
+ mso-number-format:General;
+ text-align:center;
+ vertical-align:middle;
+ white-space:nowrap;
+ background:#FAE6D3;
+ mso-pattern:auto none;
+ color:#000000;
+ font-size:12pt;
+ font-weight:400;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x63
+ {
+ mso-number-format:'0\\ \0022GB\0022';
+ text-align:center;
+ vertical-align:middle;
+ white-space:nowrap;
+ background:#FAE6D3;
+ mso-pattern:auto none;
+ color:#000000;
+ font-size:11pt;
+ font-weight:400;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x64
+ {
+ mso-number-format:General;
+ text-align:center;
+ vertical-align:middle;
+ white-space:nowrap;
+ background:#FAE6D3;
+ mso-pattern:auto none;
+ color:#000000;
+ font-size:11pt;
+ font-weight:400;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x65
+ {
+ mso-number-format:General;
+ text-align:center;
+ vertical-align:middle;
+ white-space:nowrap;
+ background:#FAE6D3;
+ mso-pattern:auto none;
+ color:#000000;
+ font-size:11pt;
+ font-weight:400;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x66
+ {
+ mso-number-format:General;
+ text-align:center;
+ vertical-align:middle;
+ white-space:normal;word-wrap:break-word;
+ background:#846648;
+ mso-pattern:auto none;
+ color:#000000;
+ font-size:10pt;
+ font-weight:700;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x67
+ {
+ mso-number-format:'\0022$\0022\#\,\#\#0_\)\;\[Red\]\\\(\0022$\0022\#\,\#\#0\\\)';
+ text-align:center;
+ vertical-align:middle;
+ white-space:nowrap;
+ background:#BEA388;
+ mso-pattern:auto none;
+ color:#000000;
+ font-size:12pt;
+ font-weight:400;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x68
+ {
+ mso-number-format:General;
+ text-align:center;
+ vertical-align:middle;
+ white-space:nowrap;
+ background:#E9E0D7;
+ mso-pattern:auto none;
+ color:#000000;
+ font-size:12pt;
+ font-weight:400;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x69
+ {
+ mso-number-format:'0\\ \0022GB\0022';
+ text-align:center;
+ vertical-align:middle;
+ white-space:nowrap;
+ background:#E9E0D7;
+ mso-pattern:auto none;
+ color:#000000;
+ font-size:11pt;
+ font-weight:400;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x70
+ {
+ mso-number-format:General;
+ text-align:center;
+ vertical-align:middle;
+ white-space:nowrap;
+ background:#E9E0D7;
+ mso-pattern:auto none;
+ color:#000000;
+ font-size:11pt;
+ font-weight:400;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x71
+ {
+ mso-number-format:General;
+ text-align:left;
+ vertical-align:middle;
+ white-space:normal;word-wrap:break-word;
+ mso-char-indent-count:1;
+ padding-left:13px;
+ background:#A6A6A6;
+ mso-pattern:auto none;
+ color:#000000;
+ font-size:11pt;
+ font-weight:400;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ border-right:1px solid #A6A6A6;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x72
+ {
+ mso-number-format:General;
+ text-align:center;
+ vertical-align:middle;
+ white-space:nowrap;
+ background:#A6A6A6;
+ mso-pattern:auto none;
+ font-size:12pt;
+ font-weight:400;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ border-right:1px solid #A6A6A6;
+ border-left:1px solid #A6A6A6;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x73
+ {
+ mso-number-format:General;
+ text-align:center;
+ vertical-align:middle;
+ white-space:nowrap;
+ background:#A6A6A6;
+ mso-pattern:auto none;
+ font-size:12pt;
+ font-weight:400;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ border-right:1px solid #A6A6A6;
+ border-left:1px solid #A6A6A6;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x74
+ {
+ mso-number-format:General;
+ text-align:center;
+ vertical-align:middle;
+ white-space:nowrap;
+ background:#A6A6A6;
+ mso-pattern:auto none;
+ font-size:12pt;
+ font-weight:400;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ border-left:1px solid #A6A6A6;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x75
+ {
+ mso-number-format:General;
+ text-align:center;
+ vertical-align:middle;
+ white-space:nowrap;
+ background:#D4DEEF;
+ mso-pattern:auto none;
+ font-size:12pt;
+ font-weight:400;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x76
+ {
+ mso-number-format:'0\\ \0022GB\0022';
+ text-align:center;
+ vertical-align:middle;
+ white-space:nowrap;
+ background:#D4DEEF;
+ mso-pattern:auto none;
+ font-size:11pt;
+ font-weight:400;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x77
+ {
+ mso-number-format:General;
+ text-align:center;
+ vertical-align:middle;
+ white-space:nowrap;
+ background:#D4DEEF;
+ mso-pattern:auto none;
+ font-size:11pt;
+ font-weight:400;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x78
+ {
+ mso-number-format:General;
+ text-align:center;
+ vertical-align:middle;
+ white-space:nowrap;
+ background:#5FC766;
+ mso-pattern:auto none;
+ font-size:12pt;
+ font-weight:400;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x79
+ {
+ mso-number-format:General;
+ text-align:left;
+ vertical-align:middle;
+ white-space:normal;word-wrap:break-word;
+ background:auto;
+ mso-pattern:auto;
+ color:#000000;
+ font-size:11pt;
+ font-weight:400;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x80
+ {
+ mso-number-format:General;
+ text-align:general;
+ vertical-align:middle;
+ white-space:nowrap;
+ background:auto;
+ mso-pattern:auto;
+ color:#3A5D9C;
+ font-size:11pt;
+ font-weight:400;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x81
+ {
+ mso-number-format:General;
+ text-align:center;
+ vertical-align:middle;
+ white-space:nowrap;
+ background:#D4DEEF;
+ mso-pattern:auto none;
+ color:#276F2C;
+ font-size:16pt;
+ font-weight:400;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x82
+ {
+ mso-number-format:General;
+ text-align:center;
+ vertical-align:middle;
+ white-space:nowrap;
+ background:#F2DCDC;
+ mso-pattern:auto none;
+ color:#276F2C;
+ font-size:16pt;
+ font-weight:400;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x83
+ {
+ mso-number-format:General;
+ text-align:center;
+ vertical-align:middle;
+ white-space:nowrap;
+ background:#CAECCC;
+ mso-pattern:auto none;
+ color:#276F2C;
+ font-size:16pt;
+ font-weight:400;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x84
+ {
+ mso-number-format:General;
+ text-align:center;
+ vertical-align:middle;
+ white-space:nowrap;
+ background:#E4DFF0;
+ mso-pattern:auto none;
+ color:#276F2C;
+ font-size:16pt;
+ font-weight:400;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x85
+ {
+ mso-number-format:General;
+ text-align:center;
+ vertical-align:middle;
+ white-space:nowrap;
+ background:#FAE6D3;
+ mso-pattern:auto none;
+ color:#276F2C;
+ font-size:16pt;
+ font-weight:400;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x86
+ {
+ mso-number-format:General;
+ text-align:center;
+ vertical-align:middle;
+ white-space:nowrap;
+ background:#E9E0D7;
+ mso-pattern:auto none;
+ color:#276F2C;
+ font-size:16pt;
+ font-weight:400;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x87
+ {
+ mso-number-format:General;
+ text-align:center;
+ vertical-align:middle;
+ white-space:nowrap;
+ background:#D4DEEF;
+ mso-pattern:auto none;
+ color:#FF0000;
+ font-size:14pt;
+ font-weight:400;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x88
+ {
+ mso-number-format:General;
+ text-align:center;
+ vertical-align:middle;
+ white-space:nowrap;
+ background:#F2DCDC;
+ mso-pattern:auto none;
+ color:#FF0000;
+ font-size:14pt;
+ font-weight:400;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x89
+ {
+ mso-number-format:General;
+ text-align:center;
+ vertical-align:middle;
+ white-space:nowrap;
+ background:#CAECCC;
+ mso-pattern:auto none;
+ color:#FF0000;
+ font-size:14pt;
+ font-weight:400;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x90
+ {
+ mso-number-format:General;
+ text-align:center;
+ vertical-align:middle;
+ white-space:nowrap;
+ background:#E4DFF0;
+ mso-pattern:auto none;
+ color:#FF0000;
+ font-size:14pt;
+ font-weight:400;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x91
+ {
+ mso-number-format:General;
+ text-align:center;
+ vertical-align:middle;
+ white-space:nowrap;
+ background:#FAE6D3;
+ mso-pattern:auto none;
+ color:#FF0000;
+ font-size:14pt;
+ font-weight:400;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x92
+ {
+ mso-number-format:General;
+ text-align:center;
+ vertical-align:middle;
+ white-space:nowrap;
+ background:#E9E0D7;
+ mso-pattern:auto none;
+ color:#FF0000;
+ font-size:14pt;
+ font-weight:400;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x93
+ {
+ mso-number-format:General;
+ text-align:center;
+ vertical-align:middle;
+ white-space:nowrap;
+ background:#D4DEEF;
+ mso-pattern:auto none;
+ color:#3A5D9C;
+ font-size:12pt;
+ font-weight:400;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x94
+ {
+ mso-number-format:General;
+ text-align:center;
+ vertical-align:middle;
+ white-space:nowrap;
+ background:#F2DCDC;
+ mso-pattern:auto none;
+ color:#3A5D9C;
+ font-size:12pt;
+ font-weight:400;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x95
+ {
+ mso-number-format:General;
+ text-align:center;
+ vertical-align:middle;
+ white-space:nowrap;
+ background:#CAECCC;
+ mso-pattern:auto none;
+ color:#3A5D9C;
+ font-size:12pt;
+ font-weight:400;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x96
+ {
+ mso-number-format:General;
+ text-align:center;
+ vertical-align:middle;
+ white-space:nowrap;
+ background:#E4DFF0;
+ mso-pattern:auto none;
+ color:#3A5D9C;
+ font-size:12pt;
+ font-weight:400;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x97
+ {
+ mso-number-format:General;
+ text-align:center;
+ vertical-align:middle;
+ white-space:nowrap;
+ background:#FAE6D3;
+ mso-pattern:auto none;
+ color:#3A5D9C;
+ font-size:12pt;
+ font-weight:400;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x98
+ {
+ mso-number-format:General;
+ text-align:center;
+ vertical-align:middle;
+ white-space:nowrap;
+ background:#E9E0D7;
+ mso-pattern:auto none;
+ color:#3A5D9C;
+ font-size:12pt;
+ font-weight:400;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x99
+ {
+ mso-number-format:General;
+ text-align:left;
+ vertical-align:bottom;
+ white-space:nowrap;
+ background:auto;
+ mso-pattern:auto;
+ color:#3A5D9C;
+ font-size:20pt;
+ font-weight:700;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x100
+ {
+ mso-number-format:General;
+ text-align:left;
+ vertical-align:top;
+ white-space:nowrap;
+ background:auto;
+ mso-pattern:auto;
+ color:#7F7F7F;
+ font-size:10pt;
+ font-weight:400;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x101
+ {
+ mso-number-format:General;
+ text-align:center;
+ vertical-align:middle;
+ white-space:nowrap;
+ background:#F2DCDC;
+ mso-pattern:auto none;
+ color:#276F2C;
+ font-size:16pt;
+ font-weight:400;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ border-top:2px solid #F2F2F2;
+ border-right:2px solid #F2F2F2;
+ border-bottom:2px solid #F2F2F2;
+ border-left:2px solid #F2F2F2;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x102
+ {
+ mso-number-format:General;
+ text-align:left;
+ vertical-align:middle;
+ white-space:normal;word-wrap:break-word;
+ mso-char-indent-count:1;
+ padding-left:13px;
+ background:#D9D9D9;
+ mso-pattern:auto none;
+ color:#000000;
+ font-size:11pt;
+ font-weight:400;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ border-top:2px solid #F2F2F2;
+ border-right:2px solid #F2F2F2;
+ border-bottom:2px solid #F2F2F2;
+ border-left:2px solid #F2F2F2;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x103
+ {
+ mso-number-format:General;
+ text-align:left;
+ vertical-align:middle;
+ white-space:normal;word-wrap:break-word;
+ mso-char-indent-count:1;
+ padding-left:13px;
+ background:auto;
+ mso-pattern:auto;
+ color:#000000;
+ font-size:11pt;
+ font-weight:400;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x104
+ {
+ mso-number-format:General;
+ text-align:general;
+ vertical-align:middle;
+ white-space:normal;word-wrap:break-word;
+ background:auto;
+ mso-pattern:auto;
+ color:#000000;
+ font-size:11pt;
+ font-weight:400;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x105
+ {
+ mso-number-format:General;
+ text-align:left;
+ vertical-align:middle;
+ white-space:normal;word-wrap:break-word;
+ mso-char-indent-count:1;
+ padding-left:13px;
+ background:auto;
+ mso-pattern:auto;
+ color:#000000;
+ font-size:11pt;
+ font-weight:700;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x106
+ {
+ mso-number-format:General;
+ text-align:center;
+ vertical-align:middle;
+ white-space:nowrap;
+ background:#F2DCDC;
+ mso-pattern:auto none;
+ color:#E68422;
+ font-size:16pt;
+ font-weight:400;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x107
+ {
+ mso-number-format:General;
+ text-align:center;
+ vertical-align:middle;
+ white-space:nowrap;
+ background:#D4DEEF;
+ mso-pattern:auto none;
+ color:#E68422;
+ font-size:16pt;
+ font-weight:400;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x108
+ {
+ mso-number-format:General;
+ text-align:center;
+ vertical-align:middle;
+ white-space:nowrap;
+ background:#F2DCDC;
+ mso-pattern:auto none;
+ color:#276F2C;
+ font-size:16pt;
+ font-weight:400;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x109
+ {
+ mso-number-format:General;
+ text-align:left;
+ vertical-align:middle;
+ white-space:normal;word-wrap:break-word;
+ mso-char-indent-count:1;
+ padding-left:13px;
+ background:#D9D9D9;
+ mso-pattern:auto none;
+ color:#000000;
+ font-size:11pt;
+ font-weight:400;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ border-top:2px solid #F2F2F2;
+ border-right:2px solid #F2F2F2;
+ border-bottom:2px solid #F2F2F2;
+ border-left:2px solid #F2F2F2;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x110
+ {
+ mso-number-format:General;
+ text-align:center;
+ vertical-align:middle;
+ white-space:nowrap;
+ background:#D3DDEF;
+ mso-pattern:auto none;
+ color:#276F2C;
+ font-size:16pt;
+ font-weight:400;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ border-top:2px solid #F2F2F2;
+ border-right:2px solid #F2F2F2;
+ border-bottom:2px solid #F2F2F2;
+ border-left:2px solid #F2F2F2;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x111
+ {
+ mso-number-format:General;
+ text-align:center;
+ vertical-align:middle;
+ white-space:nowrap;
+ background:#F2DBDB;
+ mso-pattern:auto none;
+ color:#276F2C;
+ font-size:16pt;
+ font-weight:400;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ border-top:2px solid #F2F2F2;
+ border-right:2px solid #F2F2F2;
+ border-bottom:2px solid #F2F2F2;
+ border-left:2px solid #F2F2F2;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x112
+ {
+ mso-number-format:General;
+ text-align:center;
+ vertical-align:middle;
+ white-space:nowrap;
+ background:#CAECCC;
+ mso-pattern:auto none;
+ color:#276F2C;
+ font-size:16pt;
+ font-weight:400;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ border-top:2px solid #F2F2F2;
+ border-right:2px solid #F2F2F2;
+ border-bottom:2px solid #F2F2F2;
+ border-left:2px solid #F2F2F2;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x113
+ {
+ mso-number-format:General;
+ text-align:general;
+ vertical-align:middle;
+ white-space:nowrap;
+ background:auto;
+ mso-pattern:auto;
+ color:#000000;
+ font-size:11pt;
+ font-weight:400;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x114
+ {
+ mso-number-format:General;
+ text-align:general;
+ vertical-align:middle;
+ white-space:nowrap;
+ background:auto;
+ mso-pattern:auto;
+ color:#3B4E87;
+ font-size:11pt;
+ font-weight:400;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x115
+ {
+ mso-number-format:General;
+ text-align:general;
+ vertical-align:middle;
+ white-space:nowrap;
+ background:auto;
+ mso-pattern:auto;
+ color:#0000FF;
+ font-size:18pt;
+ font-weight:700;
+ font-style:italic;
+ font-family:Arial,sans-serif;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x116
+ {
+ mso-number-format:General;
+ text-align:center;
+ vertical-align:middle;
+ white-space:nowrap;
+ background:#D4DEEF;
+ mso-pattern:auto none;
+ font-size:12pt;
+ font-weight:400;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x117
+ {
+ mso-number-format:General;
+ text-align:center;
+ vertical-align:middle;
+ white-space:nowrap;
+ background:#F2DCDC;
+ mso-pattern:auto none;
+ font-size:12pt;
+ font-weight:400;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x118
+ {
+ mso-number-format:General;
+ text-align:center;
+ vertical-align:middle;
+ white-space:nowrap;
+ background:#CAECCC;
+ mso-pattern:auto none;
+ font-size:12pt;
+ font-weight:400;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x119
+ {
+ mso-number-format:General;
+ text-align:center;
+ vertical-align:middle;
+ white-space:nowrap;
+ background:#E4DFF0;
+ mso-pattern:auto none;
+ color:#000000;
+ font-size:12pt;
+ font-weight:400;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x120
+ {
+ mso-number-format:General;
+ text-align:center;
+ vertical-align:middle;
+ white-space:nowrap;
+ background:#E9E0D7;
+ mso-pattern:auto none;
+ color:#000000;
+ font-size:12pt;
+ font-weight:400;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x121
+ {
+ mso-number-format:General;
+ text-align:center;
+ vertical-align:middle;
+ white-space:nowrap;
+ background:#F2DCDC;
+ mso-pattern:auto none;
+ font-size:12pt;
+ font-weight:400;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x122
+ {
+ mso-number-format:General;
+ text-align:center;
+ vertical-align:middle;
+ white-space:nowrap;
+ background:#CAECCC;
+ mso-pattern:auto none;
+ font-size:12pt;
+ font-weight:400;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x123
+ {
+ mso-number-format:General;
+ text-align:center;
+ vertical-align:middle;
+ white-space:nowrap;
+ background:#FAE6D3;
+ mso-pattern:auto none;
+ color:#000000;
+ font-size:12pt;
+ font-weight:400;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x124
+ {
+ mso-number-format:General;
+ text-align:center;
+ vertical-align:middle;
+ white-space:nowrap;
+ background:#D4DEEF;
+ mso-pattern:auto none;
+ font-size:12pt;
+ font-weight:400;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ border-bottom:2px solid #F2F2F2;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x125
+ {
+ mso-number-format:General;
+ text-align:center;
+ vertical-align:middle;
+ white-space:nowrap;
+ background:#F2DCDC;
+ mso-pattern:auto none;
+ font-size:12pt;
+ font-weight:400;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ border-bottom:2px solid #F2F2F2;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x126
+ {
+ mso-number-format:General;
+ text-align:center;
+ vertical-align:middle;
+ white-space:nowrap;
+ background:#CAECCC;
+ mso-pattern:auto none;
+ font-size:12pt;
+ font-weight:400;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ border-bottom:2px solid #F2F2F2;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x127
+ {
+ mso-number-format:General;
+ text-align:center;
+ vertical-align:middle;
+ white-space:nowrap;
+ background:#E4DFF0;
+ mso-pattern:auto none;
+ color:#000000;
+ font-size:12pt;
+ font-weight:400;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ border-bottom:2px solid #F2F2F2;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x128
+ {
+ mso-number-format:General;
+ text-align:center;
+ vertical-align:middle;
+ white-space:nowrap;
+ background:#FAE6D3;
+ mso-pattern:auto none;
+ color:#000000;
+ font-size:12pt;
+ font-weight:400;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ border-bottom:2px solid #F2F2F2;
+ mso-protection:locked visible;
+ }
+#ExcelTable .x129
+ {
+ mso-number-format:General;
+ text-align:center;
+ vertical-align:middle;
+ white-space:nowrap;
+ background:#E9E0D7;
+ mso-pattern:auto none;
+ color:#000000;
+ font-size:12pt;
+ font-weight:400;
+ font-style:normal;
+ font-family:Arial,sans-serif;
+ border-bottom:2px solid #F2F2F2;
+ mso-protection:locked visible;
+ }
