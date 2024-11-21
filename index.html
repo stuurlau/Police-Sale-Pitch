@@ -20,12 +20,12 @@
 			<div class="slides">
 				<section id="protype1">
 					<img src="slides/Prototype1.svg" alt="Slide 1">
-					<video id="results-vid" src="animations/Results-prototype (2).mp4" muted autoplay loop controls></video>
+					<video id="results-vid" src="animations/Results-prototype (1).mp4" muted autoplay loop controls></video>
 					<img id="violence-header" src="slides/Violance-crop.png">
 				</section>
 				<section id="protype2">
 					<img src="slides/Prototype2.svg" alt="Slide 1">
-					<video id="details-vid" src="animations/citadel_presentation_rec10-2024-09-19_12.46.52 - Converted.mp4" muted autoplay loop controls></video>
+					<video id="details-vid" src="animations/citadel_presentation_rec10-2024-09-19_12.46.52.mp4" muted autoplay loop controls></video>
 				</section>
 				<section id="protype3">
 					<img src="slides/Prototype3.svg" alt="Slide 1">
@@ -55,6 +55,11 @@
 		<script src="plugin/markdown/markdown.js"></script>
 		<script src="plugin/highlight/highlight.js"></script>
 		<script>
+			const firstvid = document.getElementById('results-vid');
+			firstvid.addEventListener('loadedmetadata', () => {
+				firstvid.playbackRate = 2.5;
+
+			});
 			const video = document.getElementById('intervention-vid');
 			video.addEventListener('loadedmetadata', () => {
 				video.currentTime = 1; // Skip to 2 seconds
